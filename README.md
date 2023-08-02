@@ -11,7 +11,7 @@
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('https://wallpapersmug.com/download/2560x1080/3b3ce6/orange-lines-abstract-pattern.jpeg');
+    --background-image: url('https://cdn.wallpapersafari.com/46/72/aQNDFG.jpg');
     --home-image: url('https://i.imgur.com/233d55Y.gif');
     --background-solid: #161921;
     --background-solid-dark: #101218;
