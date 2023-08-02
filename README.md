@@ -11,7 +11,7 @@
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('https://i.imgur.com/R0V4GOx.jpg');
+    --background-image: url('https://t3.ftcdn.net/jpg/01/27/47/12/360_F_127471210_VkRs7xWsmyWFOvGnni70WVHOVTmxhPh2.jpg');
     --home-image: url('https://i.imgur.com/233d55Y.gif');
     --background-solid: #161921;
     --background-solid-dark: #101218;
