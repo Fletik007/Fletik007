@@ -11,7 +11,7 @@
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('https://wallpapersmug.com/download/2560x1024/5877e7/lake-sunset-orange-minimal-dark.jpg');
+    --background-image: url('https://wallpapersmug.com/download/2560x1080/3b3ce6/orange-lines-abstract-pattern.jpeg');
     --home-image: url('https://i.imgur.com/233d55Y.gif');
     --background-solid: #161921;
     --background-solid-dark: #101218;
