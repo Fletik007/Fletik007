@@ -11,7 +11,7 @@
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('[https://i.imgur.com/7SbtKvw.png](https://i.imgur.com/H5yzOvq_d.webp?maxwidth=520&shape=thumb&fidelity=high)');
+    --background-image: url('https://i.imgur.com/7SbtKvw.png');
     --home-image: url('https://i.imgur.com/233d55Y.gif');
     --background-solid: #161921;
     --background-solid-dark: #101218;
