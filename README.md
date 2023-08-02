@@ -12,7 +12,7 @@
 :root {
     --avatar-size: 32px;
     --background-image: url('https://cdn.wallpapersafari.com/46/72/aQNDFG.jpg');
-    --home-image: url('https://i.imgur.com/233d55Y.gif');
+    --home-image: url('https://media.tenor.com/DGv3i4GdRpgAAAAC/up-in-flames-fire.gif');
     --background-solid: #161921;
     --background-solid-dark: #101218;
     --background-solid-darker: #0c0e12;
