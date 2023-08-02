@@ -11,7 +11,7 @@
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('https://w0.peakpx.com/wallpaper/273/236/HD-wallpaper-black-dark-gray-gray.jpg');
+    --background-image: url('https://i.imgur.com/R0V4GOx.jpg');
     --home-image: url('https://i.imgur.com/233d55Y.gif');
     --background-solid: #161921;
     --background-solid-dark: #101218;
