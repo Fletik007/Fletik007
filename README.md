@@ -11,7 +11,7 @@
 /* Variables */
 :root {
     --avatar-size: 32px;
-    --background-image: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapersden.com%2Fblack-color-liquid-4k-wallpaper%2F2560x1080%2F&psig=AOvVaw03schzrv0k5XXiyB8v69vm&ust=1698333631231000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKidxvi_kYIDFQAAAAAdAAAAABBK');
+    --background-image: url('https://images.wallpapersden.com/image/download/black-color-liquid-4k_bGtpbmeUmZqaraWkpJRnamtlrWZlbWU.jpg');
     --home-image: url('https://media.tenor.com/MOZ0kG5WZ2wAAAAC/heheheha-clash-royale.gif');
     --background-solid: #161921;
     --background-solid-dark: #101218;
